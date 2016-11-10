@@ -1,0 +1,3 @@
+This exercises are from the Odin Project http://www.theodinproject.com/courses/ruby-programming/lessons/recursion?ref=lc-pb
+
+These exercises familiarzed me with recursive methods, how to use them, and how to stop them with a base case. One of the exercises is a merge sort method that uses recursion to sort an unsorted array. The other uses recursion to return a specified number of terms of the Fibonacci sequence.
